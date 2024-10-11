@@ -34,5 +34,3 @@ git push origin $tag
 git add .
 git commit -m "[release] $tag" --allow-empty
 git push
-
-cd doc && yarn deploy
