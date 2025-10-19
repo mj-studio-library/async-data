@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Update freezed internal version
+ 
 ## 1.0.1
 
 - Update dependencies
